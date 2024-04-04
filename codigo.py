@@ -1,5 +1,5 @@
 nombre = 'awa'
-apellido = 'de uwu'
+apellido = 'de owo'
 
 saludo = 'Hola'+' '+nombre+' '+apellido+' Como estas?'
 
